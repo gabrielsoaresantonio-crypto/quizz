@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(228, 156, 156);
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  img{width: 60%;}
+  
+  h1{color: rgb(19, 1, 1);
+  font-size: 50px;
+  }
+  
+  p{font-size: 30px;
+  color: rgb(24, 23, 23);
+  }
+  
+  button{
+    font-size: 30px;
+    margin: 10px;
+    background-color: rgb(231, 85, 153);
+    color: rgb(15, 14, 14);
+    padding: 9px;
+    width: 200px;
+    font-weight: bold;
+    border-radius: 50px;
+  }
